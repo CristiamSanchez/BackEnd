@@ -19,7 +19,7 @@ http
     if (accion == "insert" || accion == "select" || accion == "update" || accion == "delete" ) {
       switch (accion) {
         
-              case "insert":
+              case "inser":
                 
                 break;
 
